@@ -9,7 +9,7 @@ Hello, this is Shan He!
 * Go to [Link](https://sdacs.ucsd.edu/~icc/index.php)
 * In `Account Lookup`, enter your UCSD username and PID accordingly.
 * Make sure to install git bash on your computer: [Link](https://git-scm.com/download/win)
-* Open VSCode and press and hold `Ctrl + ``to open the terminal.
+* Open VSCode and press and hold `Ctrl +` `to open the terminal.
 * Open the command palette using `Ctrl + Shift + P`.
 * Type in **Select Default Profile**.
 * Click Git Bash from the options.
