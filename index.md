@@ -5,6 +5,8 @@ Hello, this is Shan He!
 * When it is done installing you can open VScode, and it should look like this: ![Image](VScode.JPG)
 ## Remotely Connecting
 * Look up your corresponding account for CSE15L: [Link](https://sdacs.ucsd.edu/~icc/index.php)
+** Please follow the steps below to reset your password.
+
 * Make sure to install git bash on your computer: [Link](https://git-scm.com/download/win)
 * Open VSCode and press and hold Ctrl + ` to open the terminal.
 * Open the command palette using Ctrl + Shift + P.
