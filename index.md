@@ -3,14 +3,20 @@ Hello, this is Shan He!
 ## Installing VScode
 * Go to VScode website and follow the instructions to install VScode for your computer. Note that you should downdoad the correct version for your operating system (Website Link: [Link](https://code.visualstudio.com/)).
 * When it is done installing you can open VScode, and it should look like this: ![Image](VScode.JPG)
-## Remotely Connecting
+## Account lookup and password reset
 * Look up your corresponding account for CSE15L: [Link](https://sdacs.ucsd.edu/~icc/index.php)
 * Please follow the steps below to reset your password.
 * Go to [Link](https://sdacs.ucsd.edu/~icc/index.php)
 * In `Account Lookup`, enter your UCSD username and PID accordingly.
+* After logging in, the website should look like this: ![Image](passWordReset1.JPG)
+* Under **Addtional Accounts**, you should see your account for CSE15L. The account should have this format `cs15lwi23abc`. Click on `cs15lwi23abc`
+* You will be redirected to this page and click on the *change your password* link. ![Image](passWordReset2.JPG)
+* Follow the instructions on the website to reset your password, then click on the last input field, and hit ENTER/RETURN on your keyboard.
+* Upon successful password reset, a success message should show up on your screen
+## Remotely Connecting
 * Make sure to install git bash on your computer: [Link](https://git-scm.com/download/win)
-* Open VSCode and press and hold `Ctrl +` `to open the terminal.
-* Open the command palette using `Ctrl + Shift + P`.
+* Open VSCode and press and hold Ctrl + ` to open the terminal.
+* Open the command palette using **Ctrl + Shift + P**.
 * Type in **Select Default Profile**.
 * Click Git Bash from the options.
 * Click on the + icon in the terminal window.
